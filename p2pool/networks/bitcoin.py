@@ -20,6 +20,7 @@ MAX_TARGET = 2**256//2**32 - 1
 PERSIST = True
 WORKER_PORT = 9332
 BOOTSTRAP_ADDRS = [
+        'bitcoinp2pool.com',
         'ml.toom.im',
         'ml.toom.im:9336',
         'ml.toom.im:9334',
